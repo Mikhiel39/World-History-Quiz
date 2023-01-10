@@ -168,7 +168,7 @@ body{
     pointer-events: none;
     transition: all 0.3s ease;
     position: absolute;
-    top:70%;
+    top:90%;
     left: 50%;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 
                 0 6px 20px 0 rgba(0, 0, 0, 0.19);
